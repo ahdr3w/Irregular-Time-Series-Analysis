@@ -1,1 +1,1 @@
-This repository for benchmarking algorithms for time series analysis with irregular data. 
+This repository is for benchmarking algorithms for time series analysis with irregular data. 
